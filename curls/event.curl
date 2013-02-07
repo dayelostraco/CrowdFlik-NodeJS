@@ -1,0 +1,2 @@
+POST
+curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"id":null,"owner":"spohnerboner@sparcedge.com","venueId":"Wasabis","latitude":"37.4234234","longitude":"-12211342342","isPublic":"true","horizontalAccuracy":5.23232,"title":"Test Node","created":null,"modified":null}' http://localhost:3000/event/
